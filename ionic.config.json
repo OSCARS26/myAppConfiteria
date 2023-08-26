@@ -1,0 +1,7 @@
+{
+  "name": "myAppConfiteria",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
